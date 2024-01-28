@@ -1,15 +1,24 @@
-// conversion method 1
-let score = 44;
-console.log(typeof score);
+// // conversion method 1
+// let score = 44;
+// console.log(typeof score);
 
-let stringscore = "44"
-console.log(typeof stringscore);
+// let stringscore = "44"
+// console.log(typeof stringscore);
 
-//conversion method 2
+// //conversion method 2
 
-let number = 88
-console.log(typeof number)
+// let number = 88
+// console.log(typeof number)
 
-let stringNumber = String(number)
-console.log(stringNumber)
-console.log(typeof stringNumber)
+// let stringNumber = String(number)
+// console.log(stringNumber)
+// console.log(typeof stringNumber)
+
+
+
+// ==============Operations==================
+
+// let value = 4
+// let negvalue = -value
+// console.log(negvalue)
+
