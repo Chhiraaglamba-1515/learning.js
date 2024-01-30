@@ -32,3 +32,11 @@ const myfunction = function(){
     console.log("JavaScript")
 }
 
+
+//============================================
+
+// there are two types of memory:- STACK and HEAP
+
+// Stack = in primitive
+// Heap = in nonprimitive
+
