@@ -26,4 +26,23 @@ function userMessage(username) {
 // console.log(userMessage(""));     // just logged in
 // console.log(userMessage());     //UNDEFINED just logged in
 
+function calCartPrice(...num1) {
+    return num1
+}
+// console.log(calCartPrice(200, 500, 856));
 
+const user = {
+    username: "chirag",
+    price: 200
+}
+
+function handleObject(anyobject) {
+    console.log(`username is ${anyobject.username} and price is ${anyobject.price}`);
+}
+
+// handleObject(user)
+
+handleObject({
+    username: "jay",
+    price:55
+})
